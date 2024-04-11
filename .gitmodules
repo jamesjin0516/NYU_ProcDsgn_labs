@@ -1,3 +1,7 @@
 [submodule "onboarding-lab-2"]
 	path = onboarding-lab-2
 	url = ../onboarding-lab-2.git
+	branch = James_lab2
+[submodule "onboarding-lab-3"]
+	path = onboarding-lab-3
+	url = ../onboarding-lab-3.git
