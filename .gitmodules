@@ -8,3 +8,6 @@
 [submodule "onboarding-lab-4"]
 	path = onboarding-lab-4
 	url = ../onboarding-lab-4.git
+[submodule "onboarding-lab-5"]
+	path = onboarding-lab-5
+	url = ../onboarding-lab-5.git
